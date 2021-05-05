@@ -15,7 +15,7 @@ Outside of my career(s), I have accumulated a wealth of programming knowledge fr
 For those interested, I have built a small reputation for myself in my local area, building bespoke gaming desktops & workstations,\
 a website for my services is currently WIP.
 
-####My personal rig:
+#### My personal rig:
 
 CPU: Intel i7-9700k @ 5.0 Ghz\
 GPU: Nvidia RTX 2070 Super OC, RAM 8000mhz GPU Clock +50mhz\
@@ -26,7 +26,7 @@ Case: Corsair 680X White\
 Power Suppy: Corsair RM850 850 Watt\
 Sound Card: ASUS Xonar DGX
 
-####Peripherals:
+#### Peripherals:
 
 	Monitor 1: ASUS XG35Q 35" Curved Ultrawide 100Hz\
 	Monitor 2: ASUS VG278Q 27" 144Hz\
