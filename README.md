@@ -1,4 +1,4 @@
-# Hi there 👋,
+# Hi there 
 
 My name is Joe and I'm an IT Technician and Cisco trained network engineer.\
 I'm from Britain and currently working at Harrods in London.
