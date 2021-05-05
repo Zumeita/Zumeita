@@ -1,21 +1,21 @@
 # Hi there 👋,
 
 My name is Joe and I'm an IT Technician and Cisco trained network engineer.\
-I'm from Britain and currently working at Harrods in London.\
+I'm from Britain and currently working at Harrods in London.
 
 I am actively working on a project called Minecraft: Survivalism, a complete overhaul modification,\
 see the project repository for more details.
 
 ## Programming :keyboard:
 
-Outside of my career(s), I have accumulated a wealth of programming knowledge from working on various projects, linked below.\
+Outside of my career(s), I have accumulated a wealth of programming knowledge from working on various projects, linked below.
 
 ## Computer Hardware & Building service :desktop_computer:
 
 For those interested, I have built a small reputation for myself in my local area, building bespoke gaming desktops & workstations,\
 a website for my services is currently WIP.
 
-My personal rig:\
+My personal rig:
 
 CPU: Intel i7-9700k @ 5.0 Ghz\
 GPU: Nvidia RTX 2070 Super OC, RAM 8000mhz GPU Clock +50mhz\
@@ -34,7 +34,7 @@ Peripherals:\
 	Mouse: Logitech G502 Lightspeed Wireless RGB\
 	Speakers: Logitech G560 Lightsync RGB speakers & sub\
 	Headset: Audio Technica ATH-M50X White\
-	Microphone: Blue Yeti & Rhode PSA1 Boom Stand\
+	Microphone: Blue Yeti & Rhode PSA1 Boom Stand
 
 
 
