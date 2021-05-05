@@ -24,7 +24,8 @@ Storage: 2x Samsung 860 Evo 512gb SSD, 1x Crucial MX500 256gb SSD, Various Hard 
 Cooling: Corsair H150i Platinum RGB 360mm Radiator AIO, 6x Corsair LL120 White RGB Fans, 2x Other 120mm\
 Case: Corsair 680X White\
 Power Suppy: Corsair RM850 850 Watt\
-Sound Card: ASUS Xonar DGX\
+Sound Card: ASUS Xonar DGX
+
 Peripherals:\
 	Monitor 1: ASUS XG35Q 35" Curved Ultrawide 100Hz\
 	Monitor 2: ASUS VG278Q 27" 144Hz\
