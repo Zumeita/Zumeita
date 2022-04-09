@@ -1,7 +1,3 @@
-# Hi :wave:
+# Hello World! :wave:
 
-IT Support Engineer, Cisco certified Network Engineer, Developer
-
-
-
-
+I am an Cisco certified Network Engineer (CCNA), IT Engineer, Hobbyist & Freelance Full Stack Developer.
